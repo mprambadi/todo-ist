@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/todo-ist/static/css/1.7b402438.chunk.css"
   },
   {
-    "revision": "6cf7535d682e7a9c9d1b29b41b914830",
+    "revision": "d35350d3156e18c1ce4117a1f0c8554d",
     "url": "/todo-ist/index.html"
   }
 ];
